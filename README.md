@@ -1,6 +1,8 @@
 gemoji
 ======
 
+[![Join the chat at https://gitter.im/gemoji/Lobby](https://badges.gitter.im/gemoji/Lobby.svg)](https://gitter.im/gemoji/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This library contains character information about native emoji, as well as image
 files for a few custom emoji.
 
